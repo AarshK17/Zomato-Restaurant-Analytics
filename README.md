@@ -410,7 +410,7 @@ Contains:
 
 This page helps compare restaurant concentration and rating patterns across locations and restaurant categories.
 
-![Zomato Restaurant and Location Analysis](Dashboard%20Outputs/Restaurant%20And%20Location%20Analysis.png)
+![Zomato Restaurant and Location Analysis](Dashboard%20Outputs/Restaurent%20And%20Location%20Analysis.png)
 
 ---
 
@@ -424,7 +424,7 @@ Contains:
 
 The scatter plot compares the number of restaurants associated with each cuisine against its average rating.
 
-![Zomato Cuisine Analysis](Dashboard%20Outputs/Cuisine%20Analysis.png)
+![Zomato Cuisine Analysis](Dashboard%20Outputs/Cuisisne%20Analysis.png)
 
 ---
 
