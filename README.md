@@ -395,6 +395,8 @@ Contains:
 | Average Cost for Two | ₹555.44 |
 | Average Votes | 283.8 |
 
+![Zomato Dashboard Overview](Dashboard%20Outputs/Overview.png)
+
 ---
 
 ## Dashboard Page 2 — Restaurant & Location Analysis
@@ -408,6 +410,8 @@ Contains:
 
 This page helps compare restaurant concentration and rating patterns across locations and restaurant categories.
 
+![Zomato Restaurant and Location Analysis](Dashboard%20Outputs/Restaurant%20And%20Location%20Analysis.png)
+
 ---
 
 ## Dashboard Page 3 — Cuisine Analysis
@@ -419,6 +423,8 @@ Contains:
 - Cuisine Popularity vs Average Rating
 
 The scatter plot compares the number of restaurants associated with each cuisine against its average rating.
+
+![Zomato Cuisine Analysis](Dashboard%20Outputs/Cuisine%20Analysis.png)
 
 ---
 
